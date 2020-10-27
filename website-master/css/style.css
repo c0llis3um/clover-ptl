@@ -224,4 +224,15 @@ pre{
   .logoimg{
     max-width: 88px;
   }
+  .circles li:nth-child(10) {
+    left: 23%;
+    width: 150px;
+    height: 150px;
+    animation-delay: 0s;
+    animation-duration: 11s;
+}
+li.nav-item {
+    padding-right: 6px;
+    font-size: 10px;
+}
 }
