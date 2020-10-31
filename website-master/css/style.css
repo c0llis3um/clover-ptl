@@ -116,7 +116,7 @@ a{
     background: rgba(255, 255, 255, 0.2);
 
     animation: animate 25s linear infinite;
-    bottom: -150px;
+    bottom: 5px;
     
 }
 
@@ -137,14 +137,14 @@ a{
 }
 
 .circles li:nth-child(3){
-    left: 70%;
+    left: 47%;
     width: 20px;
     height: 20px;
     animation-delay: 4s;
 }
 
 .circles li:nth-child(4){
-    left: 40%;
+    left: 4%;
     width: 60px;
     height: 60px;
     animation-delay: 0s;
@@ -159,7 +159,7 @@ a{
 }
 
 .circles li:nth-child(6){
-    left: 75%;
+    left: 5%;
     width: 110px;
     height: 110px;
     animation-delay: 3s;
@@ -189,7 +189,7 @@ a{
 }
 
 .circles li:nth-child(10){
-    left: 85%;
+    left: 5%;
     width: 150px;
     height: 150px;
     animation-delay: 0s;
